@@ -1,4 +1,4 @@
-### HOLA 👋
+# HOLA 👋
 
 <!--
 **Lukas1978/Lukas1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
