@@ -1,8 +1,5 @@
 # HOLA 👋
 
-<!--
-**Lukas1978/Lukas1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -Here are some ideas to get you started:
 
 -Soy programador de Python, Html y JavaScrip
