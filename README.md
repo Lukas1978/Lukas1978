@@ -4,4 +4,4 @@
 
 -EL editor que yo uso es Vs code os lo recomiendo
 
- Podeis ver mis repositorios para aprender Python y Html
+ Podeis ver mis repositorios para aprender Python,Html,Css,JavaScrip y java 
